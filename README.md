@@ -24,5 +24,5 @@ This is designed using node js & npm. Follow below steps to setup and use it in 
     Your trip caused 2.565kg of CO2-equivalent.
 
 # run unit test
-to run unit test enter below command.
+    to run unit test enter below command.
     npm test
